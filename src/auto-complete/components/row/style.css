@@ -1,0 +1,11 @@
+.suggestion-button {
+    border: 0;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.suggestion-button:hover {
+    opacity: 0.7;
+    color: lightsalmon;
+}

@@ -1,0 +1,9 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: 1px solid #ededed;
+    border-radius: 6px;
+    padding: 4px;
+}
+
